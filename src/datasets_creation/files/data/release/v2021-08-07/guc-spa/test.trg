@@ -1,0 +1,3 @@
+Vaya
+Váyase
+Vete
