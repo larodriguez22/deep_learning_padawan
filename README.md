@@ -39,6 +39,6 @@ Then all this information was combined to create [`spa_guc_dataset.csv`](src/dat
 Transfer Learning is a useful technique that allows us to leverage the knowledge learned by a pre-trained model on a large dataset and apply it to a new task with a smaller dataset. In this case, we can used a pre-trained language model `T5-base`, which was introduced in the paper [Exploring the Limits of Trans-
 fer Learning with a Unified Text-to-Text Transformer](https://jmlr.org/papers/volume21/20-074/20-074.pdf). T5 is a encoder-decoder transformer-based model that was trained on a large corpus of text data and can be fine-tuned for a variety of natural language processing tasks, including translation. 
 
-The results of the different trainning experiments where registered in `Weights & Biases` and can be found in the following [link](https://wandb.ai/la-rodriguez-universidad-de-los-andes/Wayuu-spanish_translator?nw=nwuserlarodriguez). 
+The results of the different trainning experiments where registered in `Weights & Biases` and can be found in the following [link](https://wandb.ai/la-rodriguez-universidad-de-los-andes/Wayuu_spanish_translator?nw=nwuserlarodriguez). 
 
 > Note: Better results could have been obtained if the dataset was larger, or with more training time, more memory and a better GPU.
